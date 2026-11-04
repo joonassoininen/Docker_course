@@ -1,0 +1,2 @@
+docker build . -t ex
+docker run -p 5001:5001 ex
