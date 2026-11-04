@@ -1,0 +1,12 @@
+link to the running cloud app: https://docker-course-l3ss.onrender.com/press
+
+I decided to run the exercise 1_11 from this course
+First I created an account to the render.com and created a new Web Service on render
+The source code I used was the public github repo, same as I used in this course (joonassoininen/Docker_course).
+I used the default settings in most of the parts in render, except:
+Root Directory = 1_11
+Language = Docker
+
+Render built the image and started the container.
+After the build, the render provided a url, where I could test the app.
+The app responds in the browser and shows the "Success" message when the button is pressed.
